@@ -1,0 +1,127 @@
+body {
+	background-color: #466e83;
+	color: #000000;
+	font-family: Arial, helvetica, sans-serif;
+}
+
+main {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+header {
+	background-color: rgba(0, 114, 95, 0.733);
+	color: #ffffff;
+	padding-left: 40px
+}
+
+nav {
+	float: left;
+	width: 160px;
+	font-weight: bold;
+	font-size: 120%;
+	padding: 1.5em;
+}
+
+nav ul {
+	margin: 0;
+	padding-left: 0;
+	font-size: 1.2em;
+	list-style-type: none;
+
+}
+
+nav a {
+	text-decoration: none;
+}
+
+nav a:link {
+	color: #70a35c;
+}
+
+nav a:visited {
+	color: #000000;
+}
+
+nav a:hover {
+	color: #2aa553
+}
+
+
+h1 {
+	margin-bottom: 0;
+	font-family: Georgia, 'Times New Roman', serif;
+}
+
+#wrapper {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #3e555e;
+	min-width: 960px;
+	max-width: 2048px;
+	box-shadow: 3px 3px 3px #333333;
+	background-image: linear-gradient(to bottom, #c5cfd4, #629ab8);
+	border: 2px solid #000033;
+}
+
+.mimic {
+	background-image: url(Images/MimicBrawlerMMF.jpg);
+	background-repeat: no-repeat;
+	background-size: 80% 90%;
+	height: 450px;
+}
+
+.bearvanguard {
+	background-image: url(Images/BearVanguardMMF.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+
+}
+
+.imperial {
+	background-image: url(Images/ImperialMarineSwornGuardMMF.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+}
+
+footer {
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: center;
+	clear:both;
+}
+
+section {
+	float: left;
+	width: 30%;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+.beholder {
+	background-image: url(Images/BeholderMMF.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+}
+.dicetower{
+	background-image: url(Images/DiceTowerMMF.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+}
+.custodes{
+	background-image: url(Images/CyberForgeFidelisCustodes.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+}
+.mimic2 {
+	background-image: url(Images/MimicBrawlerMMF.jpg);
+	background-repeat: no-repeat;
+	background-size: 70% 90%;
+	height: 500px;
+}
